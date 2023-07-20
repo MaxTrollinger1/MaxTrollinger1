@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on netcode<br>👯 I’m looking to collaborate on video game programming<br>🌱 I’m currently learning website development<br>💬 Ask me about unity game development
+🔭 I’m currently working on netcode<br>👯 I’m looking to collaborate on video game programming<br>🌱 I’m currently learning assembly language<br>💬 Ask me about unity game development
 
 
 ## 🌐 Socials:
