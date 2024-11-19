@@ -2,10 +2,6 @@
 🔭 I’m currently working on researching binary code obfuscation<br>👯 I’m looking to collaborate on C# game programming<br>🌱 I’m currently learning assembly language and reverse-engineering<br>💬 Ask me about systems security or unity game development
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](linkedin.com/in/max-trollinger-45786b182)
-
-
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
