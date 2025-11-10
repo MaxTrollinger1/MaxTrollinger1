@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on researching binary code obfuscation<br>👯 I’m looking to collaborate on C# game programming<br>🌱 I’m currently learning assembly language and reverse-engineering<br>💬 Ask me about systems security or unity game development
+🔭 I’m currently working on researching malware analysis<br>👯 I’m looking to collaborate on C# game programming<br>🌱 I’m currently learning assembly language and reverse-engineering<br>💬 Ask me about systems security or game development
 
 
 # 💻 Tech Stack:
